@@ -14,3 +14,6 @@ Links to some Australian Portals and Datasets
 * [Department of Agriculture](https://www.agriculture.gov.au/abares/data)
 * [City the Gold Coast](https://www.goldcoast.qld.gov.au/open-data-access-project-21818.html)
 * [City of Greater Geelong](https://www.goldcoast.qld.gov.au/open-data-access-project-21818.html)
+* [ARC Centre of Excellence for Coral Reef Studies](https://www.coralcoe.org.au/)
+* [Attorney-General's Department](https://www.ag.gov.au/Pages/default.aspx)
+* [Australian Broadcasting Cooporation](https://www.abc.net.au/)
